@@ -29,6 +29,9 @@ This project presents a Deep Learning-based solution for automatic classificatio
 The model was trained on the publicly available APTOS 2019 Blindness Detection dataset from Kaggle.
 
 ## Snapshots
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/apsarg/Desktop/diabetic_retinopathy_app/DR/app.png?version%3D1751298788594)
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/apsarg/Desktop/diabetic_retinopathy_app/DR/report.png?version%3D1751298793873)
+![image](https://github.com/user-attachments/assets/8c6a4abd-de7a-4d19-84a7-251fcf30013c)
+![image](https://github.com/user-attachments/assets/7a67703f-c535-47dc-bbfd-c1e1bfa24464)
+
+
+
